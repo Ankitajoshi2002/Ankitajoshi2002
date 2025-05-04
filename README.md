@@ -73,7 +73,7 @@
 
 Feel free to reach out if you want to collaborate, discuss ideas, or just say hi!
 
-**Email:** your-email@example.com  
+**Email:** ankitajoshi6039.com  
 **Portfolio:** [https://your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
