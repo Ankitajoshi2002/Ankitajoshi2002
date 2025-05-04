@@ -1,5 +1,5 @@
 
-![Banner](https://your-image-url.com/banner.png)
+![Banner](https://raw.githubusercontent.com/Ankitajoshi2002/Ankitajoshi2002/refs/heads/main/file_00000000724461f791714aaf416aff28%20(1).png)
 
 # Hi there, I'm Ankita Joshi! 👋
 
