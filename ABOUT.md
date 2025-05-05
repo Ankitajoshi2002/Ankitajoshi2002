@@ -65,9 +65,11 @@ Hi, I'm **Ankita Joshi** — a passionate and forward-thinking technologist with
 
 ## 🌟 Portfolio
 
-👉 **Check out my portfolio here:** [View Portfolio](https://github.com/ANKITAJOSHI2002/My-Portfolio-)
+👉 **Check out my portfolio here:**  
+[![Portfolio Preview](https://github.com/Ankitajoshi2002/My-Portfolio-/blob/2918693908819de52c896e575d5f27c5bfe07486/file_00000000724461f791714aaf416aff28%20(1).png?raw=true)](https://github.com/Ankitajoshi2002/My-Portfolio-)
 
 ---
+
 
 ## 📬 Let's Connect
 
