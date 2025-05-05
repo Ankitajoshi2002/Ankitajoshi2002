@@ -28,6 +28,9 @@ Hello! I'm **Ankita Joshi**, a dedicated and driven technology enthusiast with a
 
 ## 💼 Projects
 
+- **[TO_DO App](#)**  
+  A clean and responsive React.js application for managing tasks, with features like add, delete, and mark-as-done for enhanced productivity.
+
 - **[Crop Yield Prediction App](#)**  
   Predicts agricultural output using rainfall, temperature, fertilizer, and pesticide data through a user-friendly React & Flask interface.
 
@@ -40,7 +43,7 @@ Hello! I'm **Ankita Joshi**, a dedicated and driven technology enthusiast with a
 - **[Breast Cancer Prediction API](#)**  
   Flask API serving a Random Forest model for early breast cancer detection based on clinical attributes.
 
-- **[Anomaly Detection Model](#)**  
+- **[Anomaly Detection System](#)**  
   Unsupervised learning project to identify outliers in structured datasets, useful for fraud detection or system monitoring.
 
 - **[E-commerce Web Portal](#)**  
