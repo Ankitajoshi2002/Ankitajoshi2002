@@ -26,13 +26,26 @@ Hello! I'm **Ankita Joshi**, a dedicated and driven technology enthusiast with a
 - Data Visualization & Analytics  
 - API Development & Backend Systems  
 
-## Projects
+## 💼 Projects
 
-- **[Crop Yield Prediction App](#)** – Forecasts crop productivity using climatic and soil inputs  
-- **[Breast Cancer Prediction API](#)** – ML-powered Flask API for early diagnosis support  
-- **[Anomaly Detection System](#)** – Detects irregularities in datasets using unsupervised learning  
-- **[Brain Tumor Detection App](#)** – Classifies MRI scans using deep learning  
-- **[E-commerce Web Portal](#)** – Full-stack shopping platform built with React & Node.js  
+- **[Crop Yield Prediction App](#)**  
+  Predicts agricultural output using rainfall, temperature, fertilizer, and pesticide data through a user-friendly React & Flask interface.
+
+- **[Sales Prediction System](#)**  
+  A Linear Regression-based model that forecasts future product sales using advertising spend, economic indicators, and seasonal trends.
+
+- **[Brain Tumor Detection App](#)**  
+  Deep learning-powered CNN model that classifies MRI brain scans to detect tumors, with real-time prediction capability.
+
+- **[Breast Cancer Prediction API](#)**  
+  Flask API serving a Random Forest model for early breast cancer detection based on clinical attributes.
+
+- **[Anomaly Detection System](#)**  
+  Unsupervised learning project to identify outliers in structured datasets, useful for fraud detection or system monitoring.
+
+- **[E-commerce Web Portal](#)**  
+  A complete shopping web application featuring product browsing, cart, and user management—built with React.js and Node.js.
+
 
 ## Let's Connect
 
