@@ -31,16 +31,16 @@ Hello! I'm **Ankita Joshi**, a dedicated and driven technology enthusiast with a
 - **[Crop Yield Prediction App](#)**  
   Predicts agricultural output using rainfall, temperature, fertilizer, and pesticide data through a user-friendly React & Flask interface.
 
-- **[Sales Prediction System](#)**  
+- **[Sales Prediction Model](#)**  
   A Linear Regression-based model that forecasts future product sales using advertising spend, economic indicators, and seasonal trends.
 
-- **[Brain Tumor Detection App](#)**  
+- **[Brain Tumor Detection Model](#)**  
   Deep learning-powered CNN model that classifies MRI brain scans to detect tumors, with real-time prediction capability.
 
 - **[Breast Cancer Prediction API](#)**  
   Flask API serving a Random Forest model for early breast cancer detection based on clinical attributes.
 
-- **[Anomaly Detection System](#)**  
+- **[Anomaly Detection Model](#)**  
   Unsupervised learning project to identify outliers in structured datasets, useful for fraud detection or system monitoring.
 
 - **[E-commerce Web Portal](#)**  
